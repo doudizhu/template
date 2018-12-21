@@ -33,7 +33,7 @@ const path = {
 
     jsPages:{
         src:'src/js/pages/**/*.js',
-        dist:'dist/jsPages/js/pages'
+        dist:'dist/js/pages',
     },
     jsHelper:{
         src:'src/js/helper/**/*.js',
